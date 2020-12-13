@@ -21,9 +21,7 @@ Find out more about me on: https://cv.dchakro.com
 
 Hit me up on![Twitter](https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/Twitter_bird_logo_2012.svg/30px-Twitter_bird_logo_2012.svg.png)[@DeepOnCar](https://twitter.com/DeepOnCar) or you can also [📬 DM me](https://twitter.com/messages/compose?recipient_id=869131514314883072).
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=dchakro&show_icons=true&title_color=B51C31&icon_color=EDA700&text_color=18447E&bg_color=FFFFFF&hide=[])
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dchakro&text_color=18447E&bg_color=FFFFFF&title_color=B51C31)
+![My github stats](https://github-readme-stats.vercel.app/api?username=dchakro&show_icons=true&title_color=B51C31&icon_color=EDA700&text_color=18447E&bg_color=FFFFFF&hide=[]) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dchakro&text_color=18447E&bg_color=FFFFFF&title_color=B51C31)
 
 📄***You can view scientific research articles co-authored by me on***:
 
