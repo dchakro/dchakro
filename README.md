@@ -14,8 +14,10 @@ I'm Deepankar Chakroborty, but I usually go by '**Deep**' 👋🏼
 🌱 I am trying to learn how to use [Rust](https://www.rust-lang.org) and write faster functions in R.
 
 💬 Mä puhun Suomea 🇫🇮 
-      Aamra বাংলা teo kotha bolte pari.
-      Hum हिन्दी me baat kar sakte hain.
+   
+   Aamra বাংলা teo kotha bolte pari.
+   
+   Hum हिन्दी me baat kar sakte hain.
 
 Find out more about me on: https://cv.dchakro.com
 
