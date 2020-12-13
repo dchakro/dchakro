@@ -8,15 +8,13 @@ I'm Deepankar Chakroborty, but I usually go by '**Deep**' 👋🏼
 + 🖥 I heavily rely on **R** and **shell scripts**.
 + ⚙️ I like code-optimization (check out my [R Tips and Tricks](https://github.com/dchakro/benchmarkR/raw/master/results.pdf)).
 + 🌱 I am trying to learn how to use [Rust](https://www.rust-lang.org) and write faster functions in R.
-+ 🌏 Language doesn't have to hold us back!!
 
-💬 Mä puhun Suomea 🇫🇮 
-   
-💬 Aamra বাংলা teo kotha bolte pari.
-  
-💬 Hum हिन्दी me baat kar sakte hain.
+🌏 Language doesn't have to hold us back!!
 
-💬 Hum اردو me bhi Guftagu kar sakte hain.
++ 💬 Mä puhun Suomea 🇫🇮 
++ 💬 Aamra বাংলা teo kotha bolte pari.
++ 💬 Hum हिन्दी me baat kar sakte hain.
++ 💬 Hum اردو me bhi Guftagu kar sakte hain.
 
 Find out more about me on: https://cv.dchakro.com
 
