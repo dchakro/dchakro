@@ -11,7 +11,7 @@ I'm Deepankar Chakroborty, but I usually go by '**Deep**' 👋🏼
 
 🌏 Language doesn't have to hold us back!!
 
-+ 💬 Mä puhun Suomea 🇫🇮 
++ 💬 Puhutaan Suomea 🇫🇮 
 + 💬 Aamra বাংলা teo kotha bolte pari.
 + 💬 Hum हिन्दी me baat kar sakte hain.
 + 💬 Hum اردو me bhi Guftagu kar sakte hain.
