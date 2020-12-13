@@ -28,5 +28,6 @@ Hit me up on![Twitter](https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/Twit
 📄***You can view scientific research articles co-authored by me on***:
 
 [![pubmed.gov](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/US-NLM-PubMed-Logo.svg/100px-US-NLM-PubMed-Logo.svg.png)](https://pubmed.ncbi.nlm.nih.gov/?term=Chakroborty%2C+Deepankar%5BAuthor%5D&sort=pubdate)
+
 [![Google scholar](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/50px-Google_Scholar_logo.svg.png)](https://scholar.google.fi/citations?user=a-SPfrYAAAAJ&hl=en)
 
