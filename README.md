@@ -15,9 +15,9 @@ I'm Deepankar Chakroborty, but I usually go by '**Deep**' 👋🏼
 
 💬 Mä puhun Suomea 🇫🇮 
    
-   Aamra বাংলা teo kotha bolte pari.
+💬 Aamra বাংলা teo kotha bolte pari.
    
-   Hum हिन्दी me baat kar sakte hain.
+💬 Hum हिन्दी me baat kar sakte hain.
 
 Find out more about me on: https://cv.dchakro.com
 
