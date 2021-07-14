@@ -13,9 +13,9 @@ I'm Deepankar Chakroborty, but I usually go by '**Deep**'.
 🌏 Language doesn't have to hold us back!!
 
 + 💬 Puhutaan Suomea 🇫🇮 
-+ 💬 Aamra বাংলা teo kotha bolte pari.
-+ 💬 Hum हिन्दी me baat kar sakte hain.
-+ 💬 Hum اردو me bhi Guftagu kar sakte hain.
++ 💬 Ham हिन्दी me vartālāp kar sakte haiṃ.
++ 💬 Aamra বাংলা te kotha bolte pari.
++ 💬 Hum اردو mein bhi guftagu kar sakte hain.
 
 ## Links:
 
