@@ -8,7 +8,7 @@ I'm Deepankar Chakroborty, but I usually go by '**Deep**'.
 + ⚙️ I like code-optimization (check out my [R Tips and Tricks](https://github.com/dchakro/benchmarkR/raw/master/results.pdf)).
 + 🌱 I am trying to learn how to use [Rust](https://www.rust-lang.org) and write faster functions in R.
 + ☕️ We can talk about my love for Macs & MacOS (*and of course Debian as well* 😉)
-+ 🎥 Shows I love: The Office, Chuck, FRIENDS, The Big Bang Theory, FRIENDS, and Permanent Roommates!
++ 🎥 Shows I love: The Office, Chuck, FRIENDS, The Big Bang Theory, and Permanent Roommates!
 
 🌏 Language doesn't have to hold us back!!
 
