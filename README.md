@@ -20,7 +20,7 @@ I'm **Deepankar Chakroborty**, but almost everyone calls me **Deep**.
 
 I'm a postdoctoral scientist in Research Oncology at **Genentech**, working at the intersection of cancer biology, functional genomics, and computation. Before that, I earned my PhD in Medical Biochemistry and Genetics at the **University of Turku, Finland** 🇫🇮.
 
-My favorite projects start with a biological question, pass through a cell-culture hood, and end somewhere inside RStudio or a terminal window. Sometimes the order changes. 🔄
+My favorite projects start with a biological question, pass through a cell-culture hood, and end somewhere inside VScode or a terminal window. Sometimes the order changes. 🔄
 
 - 🧬 I study cancer using functional genetics, single-cell RNA-seq, and epigenomics.
 - 🧫 I generate experimental data at the bench and write the code that helps me make sense of it.
