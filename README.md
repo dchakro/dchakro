@@ -36,7 +36,7 @@ My favorite projects start with a biological question, pass through a cell-cultu
 |---|---|
 | **[DORM](https://eleniuslabtools.utu.fi/main/docs/DORM.html)** | An open-source R/Shiny resource for exploring recurrent cancer mutations while reducing common biases in public mutation data. Try [Mutations](https://eleniuslabtools.utu.fi/tools/DORM/Mutations/) or [Residues](https://eleniuslabtools.utu.fi/tools/DORM/Residues/); browse the code in [DORM_Mutations](https://github.com/dchakro/DORM_Mutations) and [DORM_Residues](https://github.com/dchakro/DORM_Residues). |
 | **[iSCREAM](https://doi.org/10.1074/jbc.RA118.006336)** | A functional-genetics platform I developed during my PhD for screening activating cancer-associated mutations—equal parts mutagenesis, cell biology, sequencing, R, and stubbornness. |
-| **[Mutation Designer](https://eleniuslabtools.utu.fi/main/MutationDesigner.html)** | An R/Shiny app that automates primer design for whole-plasmid site-directed mutagenesis. Because repeatedly consulting a codon table builds character—but automation builds primers. |
+| **[Mutation Designer](https://eleniuslabtools.utu.fi/main/MutationDesigner.html)** | An R/Shiny app that automates primer design for whole-plasmid site-directed mutagenesis. Because repeatedly consulting a codon table builds character—but automation spits out PCR site-directd mutagenesis primers faster than you can screen your colonies. |
 
 ## 🛠️ Tiny tools for disproportionately annoying problems
 
