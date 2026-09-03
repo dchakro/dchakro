@@ -88,14 +88,3 @@ Yes, that is an eclectic collection. No, I will not be taking questions. 😉
     <img src="https://img.shields.io/badge/CLI_Tips-tips.dchakro.com-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Command-line tips">
   </a>
 </p>
-
-<details>
-<summary><b>📊 Behold: assorted internet numbers</b></summary>
-
-[![Deep's GitHub stats](https://github-readme-stats.vercel.app/api?username=dchakro&show_icons=true&title_color=B51C31&icon_color=EDA700&text_color=18447E&bg_color=FFFFFF&hide_border=true)](https://github.com/dchakro?tab=repositories)
-
-[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dchakro&layout=compact&title_color=B51C31&text_color=18447E&bg_color=FFFFFF&hide_border=true)](https://github.com/dchakro?tab=repositories)
-
-<sub>GitHub thinks I mostly speak Shell. The cancer cells remain unconvinced.</sub>
-
-</details>
